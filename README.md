@@ -14,15 +14,15 @@ We need to create a website in which we have connected the MYQL database with th
 
 <h3>The Short Description of Our Project</h3>
 <hr>
-<center>The roadmap of our project is </center><br><br>
+The roadmap of our project is<br><br>
 <img src="roadmap.PNG">
 <br><br>
-The first page of our website give us a brief idea about the services provided by us.<br>
+The first page of our website give us a brief idea about the services provided by us.<br><br>
 <img src="Services.PNG"><br><br>
-We have predicted whether the water is safe or not by training a machine learning model(Random Forest Classifier) and the data from the database provided by the user in form 1 will also be predicted.<br>
+We have predicted whether the water is safe or not by training a machine learning model(Random Forest Classifier) and the data from the database provided by the user in form 1 will also be predicted.<br><br>
 <img src = "form.PNG" width=400 height=300>&nbsp;&nbsp;<img src="ML Pred1.PNG" width=400 height=300>
 <br><br>
-The database which contains all the data is given below:- <br>
+The database which contains all the data is given below:- <br><br>
 <img src="database.PNG">
 <br>
 Please import the db files in MYSQL and then use the folder.
