@@ -14,7 +14,7 @@ We need to create a website in which we have connected the MYQL database with th
 
 <h3>The Short Description of Our Project</h3>
 <hr>
-The roadmap of our project is <br><br>
+<center>The roadmap of our project is </center><br><br>
 <img src="roadmap.PNG">
 <br><br>
 The first page of our website give us a brief idea about the services provided by us.<br>
